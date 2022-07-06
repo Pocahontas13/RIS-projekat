@@ -1,0 +1,154 @@
+.container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #e0bb9a;
+  }
+  .image {
+    top: 37px;
+    left: 326px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image01 {
+    top: 483px;
+    left: 776px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image02 {
+    top: 184px;
+    left: 35px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image03 {
+    top: 34px;
+    left: 178px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image04 {
+    top: 42px;
+    left: 775px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image05 {
+    top: 480px;
+    left: 450px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image06 {
+    top: 41px;
+    left: 475px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image07 {
+    top: 41px;
+    left: 924px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image08 {
+    top: 38px;
+    right: 30px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image09 {
+    top: 328px;
+    left: 33px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image10 {
+    top: 334px;
+    left: 249px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image11 {
+    top: 472px;
+    left: 32px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image12 {
+    top: 479px;
+    left: 245px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image13 {
+    top: 335px;
+    left: 448px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image14 {
+    top: 333px;
+    left: 774px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image15 {
+    top: 479px;
+    right: 28px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image16 {
+    top: 40px;
+    left: 622px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .image17 {
+    top: 334px;
+    right: 30px;
+    width: 100px;
+    position: absolute;
+    object-fit: cover;
+  }
+
+  .button1 {
+    left: 8px;
+    bottom: 50px;
+    position: absolute;
+  }
+
+  .button2 {
+    left: 130px;
+    bottom: 50px;
+    position: absolute;
+  }
+
+  .button3 {
+    left: 292px;
+    bottom: 50px;
+    position: absolute;
+  }

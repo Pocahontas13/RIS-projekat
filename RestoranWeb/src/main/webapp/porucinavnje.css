@@ -1,0 +1,51 @@
+.container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 120vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #e0c396;
+  }
+  .container1 {
+    top: 91px;
+    flex: 0 0 auto;
+    left: 83px;
+    width: 381px;
+    height: 413px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .Dodaj-artikal {
+    left: 8px;
+    bottom: -160px;
+    position: absolute;
+  }
+  .storniraj {
+    right: 26px;
+    bottom: -160px;
+    position: absolute;
+  }
+  .button {
+    left: 8px;
+    bottom: -190px;
+    position: absolute;
+  }
+  .button1 {
+    right: 26px;
+    bottom: -190px;
+    position: absolute;
+  }
+  .container2 {
+    top: 80px;
+    left: 592px;
+    width: 500px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 657px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    overflow: scroll;
+  }
